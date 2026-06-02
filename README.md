@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="1c3e7d48-3680-40e1-96d7-83f24987b049" src="https://github.com/user-attachments/assets/04e0e07e-0002-40e1-80a8-609a820f657d" />
 <h1 align="center">Hi 👋, I'm Adithya U K</h1>
 <h3 align="center">I am an Artificial Intelligence Engineering Student at Amrita Vishwa Vidyapeetham, Coimbatore | Aspiring AI/ML Engineer | Passionate About Solving Real-World Problems with AI .</h3>
 
