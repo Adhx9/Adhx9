@@ -25,11 +25,7 @@ Deep Learning • AI Systems • Battery Intelligence • Anomaly Detection
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,docker,kafka,mysql,git,github,html,css" />
 </p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhx9&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhx9&theme=tokyonight" />
@@ -37,12 +33,9 @@ Deep Learning • AI Systems • Battery Intelligence • Anomaly Detection
 <div align="center">
 
 Projects • Research • Robotics • AI Systems
-
 <br><br>
-
 <a href="https://github.com/Adhx9">GitHub</a>
   |   <a href="https://www.linkedin.com/in/adithya-uk-924a14343/">LinkedIn</a>
   |   <a href="mailto:adithyauk2005@gmail.com">Contact</a>
-
 </div>
 
